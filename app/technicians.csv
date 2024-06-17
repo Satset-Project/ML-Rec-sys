@@ -1,0 +1,201 @@
+technicianid,name,phonenumber,email,skills,experience,certifications,address,location,ratingsreceived
+1,Erik Okta Lestari,+6287265995831,eriklestari@gmail.com,"Computer Installation, AC Repair",13,,Gg. Rawamangun No. 019,Bitung,4.2
+2,Raisa Lasmono Najmudin,+6287452722533,raisanajmudin@gmail.com,"Washing Machine Maintenance, Electrical Repair",4,,Gg. Rumah Sakit No. 74,Tegal,4.6
+3,Tasnim Utama,+62829038854284,tasnimutama@gmail.com,"AC Maintenance, Plumbing Installation",4,Sertifikasi Profesi Teknik Pendingin dan Tata Udara,Jl. Yos Sudarso No. 720,Jayapura,4.9
+4,Warji Ghani Wahyudin,+6289233671587,warjiwahyudin@gmail.com,"Computer Repair, Plumbing Repair",2,,Jl. Rajawali Timur No. 95,Pariaman,5.0
+5,Tania Jailani,+6282057406206,taniajailani@gmail.com,"Plumbing Installation, Computer Repair",3,SKA Ahli Teknik Plambing dan Pompa Mekanika,Gg. Monginsidi No. 200,Bogor,4.0
+6,Tira Napitupulu,+62890417369904,tiranapitupulu@gmail.com,"Electrical Maintenance, Computer Repair",9,"Sertifikasi K3 Teknisi Listrik, Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior",Gang Gegerkalong Hilir No. 9,Surabaya,4.7
+7,Kawaya Reksa Waluyo,+62890155788492,kawayawaluyo@gmail.com,"Electrical Repair, Plumbing Maintenance",2,,Gg. Dr. Djunjunan No. 270,Purwokerto,4.5
+8,Gawati Prayoga,+6289544980399,gawatiprayoga@gmail.com,"Washing Machine Installation, AC Maintenance",1,Sertifikasi Teknisi Refrigerasi dan Tata Udara,Gg. Ir. H. Djuanda No. 5,Tebingtinggi,3.6
+9,Rahayu Widodo,+6283902982023,rahayuwidodo@gmail.com,"Electrical Maintenance, Washing Machine Installation",5,,Jalan Suniaraja No. 73,Ternate,4.5
+10,Aris Nababan,+62883213340709,arisnababan@gmail.com,"Plumbing Installation, Refrigerator Maintenance",4,"SKA Ahli Teknik Plambing dan Pompa Mekanika, Sertifikasi Profesi Teknik Pendingin",Jl. Ir. H. Djuanda No. 639,Prabumulih,4.8
+11,Cagak Nuraini,+6289404512372,cagaknuraini@gmail.com,"Washing Machine Installation, Plumbing Repair",2,SKA Ahli Teknik Plambing dan Pompa Mekanika,Gang Sadang Serang No. 8,Subulussalam,3.7
+12,Bahuwarna Kayla Winarno,+6281825191880,bahuwarnawinarno@gmail.com,"Refrigerator Maintenance, Computer Maintenance",3,Sertifikasi Teknisi Refrigerasi,Jl. Tebet Barat Dalam No. 618,Serang,4.8
+13,Danu Suwarno,+6283004928526,danusuwarno@gmail.com,"Washing Machine Installation, Electrical Repair",9,Sertifikasi K3 Teknisi Listrik,Gang S. Parman No. 7,Pariaman,4.7
+14,Arsipatra Danu Saefullah,+6283022194324,arsipatrasaefullah@gmail.com,"Computer Maintenance, Electrical Maintenance",4,Sertifikasi K3 Teknisi Listrik,Jl. Pacuan Kuda No. 51,Kediri,4.5
+15,Asirwada Wibisono,+62856120332139,asirwadawibisono@gmail.com,"Washing Machine Installation, AC Repair",5,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Jl. Rajiman No. 530,Palu,4.8
+16,Jayadi Luluh Wahyuni,+6286059402363,jayadiwahyuni@gmail.com,"Refrigerator Maintenance, Washing Machine Repair",2,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Gg. Otto Iskandardinata No. 105,Bau-Bau,5.0
+17,Kacung Andriani,+6286960801718,kacungandriani@gmail.com,"Washing Machine Installation, AC Repair",2,"Sertifikasi LSP Elektronika Teknisi Mesin Cuci, Sertifikasi Teknisi Refrigerasi dan Tata Udara",Jalan Monginsidi No. 90,Cimahi,4.5
+18,Juli Wardi Kuswandari,+6285559743248,julikuswandari@gmail.com,"Plumbing Repair, AC Repair",1,,Jalan Jakarta No. 661,Sawahlunto,4.0
+19,Gandewa Mulya Sudiati,+62837293177052,gandewasudiati@gmail.com,"AC Installation, Computer Installation",5,,Jalan Cikutra Timur No. 413,Sorong,4.0
+20,Asmuni Pranawa Wahyudin,+6284348323030,asmuniwahyudin@gmail.com,"AC Maintenance, Plumbing Installation",5,,Gang Gegerkalong Hilir No. 8,Mojokerto,4.7
+21,Nardi Laras Lazuardi,+62884808224121,nardilazuardi@gmail.com,"Computer Repair, Electrical Installation",2,"Sertifikat Kompetensi BNSP Teknisi Komputer Muda, Sertifikasi K3 Teknisi Listrik",Jl. Suryakencana No. 89,Tangerang Selatan,4.8
+22,Prasetya Labuh Uyainah,+62815304287050,prasetyauyainah@gmail.com,"AC Repair, Plumbing Repair",5,"Sertifikasi Profesi Teknik Pendingin dan Tata Udara, Sertifikat Kompetensi BNSP Teknisi Plumbing & Drainase",Gang Cikutra Timur No. 2,Pasuruan,4.8
+23,Farhunnisa Viman Laksmiwati,+62810520173641,farhunnisalaksmiwati@gmail.com,"Plumbing Installation, Computer Installation",12,SKA Ahli Teknik Plambing dan Pompa Mekanika,Jalan Cihampelas No. 893,Tidore Kepulauan,3.8
+24,Zelda Lazuardi,+62868543534538,zeldalazuardi@gmail.com,"Refrigerator Maintenance, Washing Machine Maintenance",2,,Jalan PHH. Mustofa No. 82,Semarang,3.6
+25,Artawan Rahimah,+62842955974119,artawanrahimah@gmail.com,"AC Maintenance, Electrical Installation",1,Sertifikasi Teknisi Refrigerasi dan Tata Udara,Gg. Monginsidi No. 6,Dumai,5.0
+26,Carla Gilda Putra,+6281170312080,carlaputra@gmail.com,"AC Repair, Plumbing Repair",4,Sertifikasi Teknisi Refrigerasi dan Tata Udara,Gg. Raya Ujungberung No. 182,Jayapura,4.8
+27,Hartana Handayani,+6285710574584,hartanahandayani@gmail.com,"Electrical Installation, AC Repair",9,,Jl. Medokan Ayu No. 2,Bogor,4.8
+28,Atmaja Ira Uyainah,+6284976299359,atmajauyainah@gmail.com,"AC Installation, Plumbing Maintenance",9,,Jl. Moch. Toha No. 04,Salatiga,4.3
+29,Estiono Silvia Melani,+62827280076592,estionomelani@gmail.com,"Plumbing Maintenance, Electrical Repair",2,Sertifikasi K3 Teknisi Listrik,Gg. Pacuan Kuda No. 73,Pematangsiantar,4.2
+30,Shania Tamba,+6288342523928,shaniatamba@gmail.com,"AC Maintenance, Plumbing Repair",2,,Jalan Raya Ujungberung No. 1,Lubuklinggau,3.5
+31,Raisa Namaga,+6288001984150,raisanamaga@gmail.com,"Plumbing Repair, Washing Machine Installation",6,"Sertifikat Kompetensi BNSP Teknisi Plumbing & Drainase, Sertifikasi LSP Elektronika Teknisi Mesin Cuci",Jalan Siliwangi No. 0,Banda Aceh,3.7
+32,Patricia Muhammad Hasanah,+62844954075475,patriciahasanah@gmail.com,"Electrical Installation, Refrigerator Installation",5,"Sertifikasi K3 Teknisi Listrik, Sertifikasi Teknisi Refrigerasi",Gg. Rungkut Industri No. 6,Batu,4.3
+33,Prabawa Prakasa,+6284049504611,prabawaprakasa@gmail.com,"Computer Repair, AC Repair",2,"Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior, Sertifikasi Profesi Teknik Pendingin dan Tata Udara",Gang Monginsidi No. 511,Cimahi,4.6
+34,Balangga Mahmud Prabowo,+6282009134000,balanggaprabowo@gmail.com,"Plumbing Maintenance, Electrical Repair",5,Sertifikasi K3 Teknisi Listrik,Gang W.R. Supratman No. 5,Langsa,4.5
+35,Najam Uwais,+62811583083848,najamuwais@gmail.com,"Electrical Repair, Computer Maintenance",5,Sertifikat Kompetensi BNSP Teknisi Komputer Muda,Jl. Cikutra Timur No. 56,Pekanbaru,5.0
+36,Rudi Mahendra,+62838887563609,rudimahendra@gmail.com,"Electrical Repair, Washing Machine Installation",4,"Sertifikasi K3 Teknisi Listrik, Sertifikasi LSP Elektronika Teknisi Mesin Cuci",Jalan Kiaracondong No. 29,Semarang,4.6
+37,Unggul Laila Wibowo,+6284344501943,unggulwibowo@gmail.com,"AC Installation, Washing Machine Repair",3,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Jalan Pacuan Kuda No. 684,Lhokseumawe,4.1
+38,Tri Puspasari,+6288161906014,tripuspasari@gmail.com,"Refrigerator Repair, Computer Repair",4,,Gang Gegerkalong Hilir No. 377,Tasikmalaya,4.6
+39,Lamar Pranowo,+6287052801786,lamarpranowo@gmail.com,"Refrigerator Installation, Computer Installation",3,,Jalan Cikapayang No. 055,Padang,4.9
+40,Waluyo Dadi Pranowo,+62862353484455,waluyopranowo@gmail.com,"Electrical Maintenance, Computer Repair",5,Sertifikat Kompetensi BNSP Teknisi Komputer Muda,Jl. Cikutra Barat No. 9,Cilegon,3.9
+41,Gambira Usman Sihotang,+6285125492076,gambirasihotang@gmail.com,"Plumbing Installation, Computer Repair",1,SKA Ahli Teknik Plambing dan Pompa Mekanika,Jl. Moch. Toha No. 903,Sawahlunto,3.6
+42,Wahyu Endra Tampubolon,+6282961757293,wahyutampubolon@gmail.com,"Electrical Installation, AC Installation",2,,Jalan Ronggowarsito No. 003,Bima,4.1
+43,Halima Ifa Sihombing,+62844775315045,halimasihombing@gmail.com,"Plumbing Maintenance, Electrical Maintenance",2,,Gang Raya Ujungberung No. 2,Palangkaraya,4.0
+44,Lanang Hesti Winarsih,+6282207433671,lanangwinarsih@gmail.com,"Computer Repair, Electrical Repair",13,Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior,Jalan Sadang Serang No. 7,Cilegon,4.0
+45,Nalar Wijaya,+6281939996932,nalarwijaya@gmail.com,"Computer Installation, Electrical Installation",14,"Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior, Sertifikasi K3 Teknisi Listrik",Gg. Pelajar Pejuang No. 96,Jayapura,3.8
+46,Jane Nababan,+6283754917233,janenababan@gmail.com,"Refrigerator Installation, Electrical Installation",4,,Jl. K.H. Wahid Hasyim No. 48,Payakumbuh,4.9
+47,Icha Hutasoit,+62892193437239,ichahutasoit@gmail.com,"Washing Machine Installation, Refrigerator Repair",2,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Gang Sukabumi No. 7,Tanjungpinang,4.7
+48,Rahayu Mulyani,+62849956113914,rahayumulyani@gmail.com,"AC Maintenance, Computer Repair",5,Sertifikasi Profesi Teknik Pendingin dan Tata Udara,Jl. Rajawali Timur No. 17,Bitung,4.1
+49,Lasmono Wadi Nasyiah,+6289544544980,lasmononasyiah@gmail.com,"Plumbing Repair, Refrigerator Repair",3,,Jl. Joyoboyo No. 95,Bontang,5.0
+50,Pia Lasmono Suryatmi,+62871702508885,piasuryatmi@gmail.com,"Computer Repair, Refrigerator Repair",10,,Gang Pasir Koja No. 86,Tangerang,4.0
+51,Drajat Siregar,+6284701830637,drajatsiregar@gmail.com,"Washing Machine Maintenance, AC Maintenance",3,Sertifikasi Profesi Teknik Pendingin dan Tata Udara,Gg. Rajawali Barat No. 91,Kendari,4.2
+52,Muni Napitupulu,+6283858125424,muninapitupulu@gmail.com,"AC Maintenance, Electrical Installation",13,"Sertifikasi Profesi Teknik Pendingin dan Tata Udara, Sertifikasi K3 Teknisi Listrik",Gang Pasir Koja No. 86,Purwokerto,4.4
+53,Marwata Taufan Wibisono,+62879044253535,marwatawibisono@gmail.com,"Plumbing Maintenance, Refrigerator Installation",3,,Jl. Suryakencana No. 9,Pariaman,4.2
+54,Cindy Winarno,+62889648887843,cindywinarno@gmail.com,"Computer Installation, Electrical Repair",4,,Jalan S. Parman No. 935,Bekasi,4.4
+55,Gandi Kiandra Astuti,+62835975153683,gandiastuti@gmail.com,"Electrical Installation, Plumbing Repair",4,Sertifikasi K3 Teknisi Listrik,Gg. Cikutra Timur No. 84,Bima,4.3
+56,Farhunnisa Sirait,+6281262314650,farhunnisasirait@gmail.com,"Plumbing Installation, Refrigerator Maintenance",1,,Jalan Moch. Ramdan No. 80,Kota Administrasi Jakarta Selatan,4.5
+57,Murti Adinata Prastuti,+6283439338305,murtiprastuti@gmail.com,"Computer Installation, Refrigerator Installation",7,,Gg. Merdeka No. 5,Serang,4.6
+58,Ibrani Tania Sudiati,+6285857662593,ibranisudiati@gmail.com,"AC Repair, Plumbing Installation",2,,Gg. Moch. Toha No. 24,Ambon,3.8
+59,Maida Elon Uwais,+62827357379411,maidauwais@gmail.com,"Computer Installation, Refrigerator Maintenance",5,,Jl. Rajiman No. 322,Semarang,3.6
+60,Yuliana Hardiansyah,+62855584508319,yulianahardiansyah@gmail.com,"Refrigerator Maintenance, Computer Maintenance",6,Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior,Jalan Sukabumi No. 742,Padang,3.7
+61,Cemani Aryani,+62815929618123,cemaniaryani@gmail.com,"Refrigerator Maintenance, Electrical Repair",5,,Gg. Indragiri No. 28,Padang,4.7
+62,Galur Darijan Prakasa,+6287680990754,galurprakasa@gmail.com,"Refrigerator Maintenance, Plumbing Maintenance",1,,Jalan Kendalsari No. 3,Pangkalpinang,3.8
+63,Eluh Purwa Haryanti,+62879100175979,eluhharyanti@gmail.com,"Computer Installation, Plumbing Repair",1,,Gg. Yos Sudarso No. 920,Kota Administrasi Jakarta Utara,3.7
+64,Rosman Pradipta,+6286502806050,rosmanpradipta@gmail.com,"Electrical Installation, Plumbing Repair",6,Sertifikat Kompetensi BNSP Teknisi Plumbing & Drainase,Jalan Abdul Muis No. 263,Samarinda,4.4
+65,Bakiman Dwi Hutagalung,+6281082594475,bakimanhutagalung@gmail.com,"Refrigerator Repair, AC Repair",4,,Jl. Astana Anyar No. 62,Sabang,4.6
+66,Baktianto Permadi,+62858106390787,baktiantopermadi@gmail.com,"Computer Repair, Electrical Repair",2,Sertifikat Kompetensi BNSP Teknisi Komputer Muda,Jalan Siliwangi No. 3,Bau-Bau,3.7
+67,Endah Nuraini,+62862192575671,endahnuraini@gmail.com,"AC Maintenance, Refrigerator Installation",4,Sertifikasi Teknisi Refrigerasi dan Tata Udara,Gg. Moch. Ramdan No. 9,Bogor,4.6
+68,Dalima Bahuraksa Fujiati,+6286058435131,dalimafujiati@gmail.com,"Refrigerator Repair, Electrical Installation",8,,Gang Joyoboyo No. 0,Solok,3.5
+69,Anastasia Agustina,+6285622840539,anastasiaagustina@gmail.com,"AC Repair, Computer Maintenance",4,"Sertifikasi Profesi Teknik Pendingin dan Tata Udara, Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior",Gg. Raya Setiabudhi No. 132,Bitung,4.8
+70,Waluyo Ellis Hariyah,+6282701992900,waluyohariyah@gmail.com,"Refrigerator Maintenance, Plumbing Repair",3,Sertifikasi Profesi Teknik Pendingin,Jalan Rajawali Barat No. 8,Batu,4.3
+71,Nadia Irfan Puspasari,+6288304865647,nadiapuspasari@gmail.com,"Plumbing Installation, Electrical Maintenance",2,Sertifikasi K3 Teknisi Listrik,Jalan H.J Maemunah No. 7,Tomohon,4.0
+72,Baktiadi Halima Fujiati,+6281583055392,baktiadifujiati@gmail.com,"Washing Machine Maintenance, AC Installation",14,,Gg. Kiaracondong No. 73,Serang,4.2
+73,Taufik Lidya Maryati,+62868050982935,taufikmaryati@gmail.com,"Computer Repair, Electrical Maintenance",5,Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior,Jl. Rajiman No. 627,Pagaralam,4.2
+74,Balidin Hartana Nurdiyanti,+6281672402650,balidinnurdiyanti@gmail.com,"AC Maintenance, Computer Maintenance",13,Sertifikasi Profesi Teknik Pendingin dan Tata Udara,Gg. Veteran No. 54,Bukittinggi,4.1
+75,Rahayu Mulyani,+62895707398404,rahayumulyani@gmail.com,"Refrigerator Maintenance, Washing Machine Maintenance",1,Sertifikasi Profesi Teknik Pendingin,Gg. Veteran No. 55,Palangkaraya,3.8
+76,Kiandra Dinda Yuliarti,+62877972927809,kiandrayuliarti@gmail.com,"AC Installation, Electrical Installation",3,Sertifikasi K3 Teknisi Listrik,Gg. Gegerkalong Hilir No. 35,Lubuklinggau,4.8
+77,Baktiono Nasyidah,+62864034862690,baktiononasyidah@gmail.com,"Electrical Maintenance, Refrigerator Repair",4,Sertifikasi K3 Teknisi Listrik,Jalan Siliwangi No. 03,Probolinggo,3.9
+78,Edward Cengkal Pradipta,+6284808211754,edwardpradipta@gmail.com,"Computer Maintenance, Refrigerator Maintenance",2,Sertifikasi Profesi Teknik Pendingin,Jl. Suryakencana No. 4,Palembang,4.2
+79,Dasa Karya Wahyuni,+62841019256811,dasawahyuni@gmail.com,"Computer Installation, Refrigerator Maintenance",2,,Jl. Asia Afrika No. 30,Bekasi,3.8
+80,Ikhsan Prasetyo,+6287193274432,ikhsanprasetyo@gmail.com,"Electrical Maintenance, Computer Installation",1,Sertifikasi K3 Teknisi Listrik,Jalan Kutisari Selatan No. 501,Bandar Lampung,4.3
+81,Gara Dongoran,+6283361494593,garadongoran@gmail.com,"Electrical Installation, AC Installation",15,,Gang Surapati No. 363,Cirebon,3.9
+82,Laila Suwarno,+62830025103140,lailasuwarno@gmail.com,"Computer Installation, Washing Machine Maintenance",15,Sertifikat Kompetensi BNSP Teknisi Komputer Muda,Jl. Setiabudhi No. 07,Langsa,4.9
+83,Raditya Tirtayasa Lailasari,+6283548638670,radityalailasari@gmail.com,"Washing Machine Maintenance, Refrigerator Repair",2,,Gang Pacuan Kuda No. 551,Subulussalam,4.5
+84,Emil Teguh Zulaika,+6285595013742,emilzulaika@gmail.com,"AC Maintenance, Electrical Maintenance",1,,Jl. Sentot Alibasa No. 1,Sibolga,4.0
+85,Yoga Adika Narpati,+6282753036164,yoganarpati@gmail.com,"Plumbing Maintenance, Washing Machine Repair",14,Sertifikat Kompetensi BNSP Teknisi Plumbing & Drainase,Jl. Ahmad Dahlan No. 52,Bengkulu,4.5
+86,Darmanto Utami,+6284439717803,darmantoutami@gmail.com,"Electrical Repair, Computer Repair",1,Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior,Jl. Sukajadi No. 71,Malang,4.2
+87,Ani Oskar Tampubolon,+62853863981391,anitampubolon@gmail.com,"Computer Repair, Electrical Repair",5,Sertifikat Kompetensi BNSP Teknisi Komputer Muda,Jl. Gardujati No. 9,Tanjungbalai,3.8
+88,Mariadi Ibrani Rahayu,+62831308944156,mariadirahayu@gmail.com,"Electrical Repair, Computer Repair",2,"Sertifikasi K3 Teknisi Listrik, Sertifikat Kompetensi BNSP Teknisi Komputer Muda",Gang Otto Iskandardinata No. 953,Kotamobagu,4.1
+89,Nalar Galuh Wibowo,+62873881123902,nalarwibowo@gmail.com,"Plumbing Maintenance, Washing Machine Maintenance",1,"Sertifikat Kompetensi BNSP Teknisi Plumbing & Drainase, Sertifikasi LSP Elektronika Teknisi Mesin Cuci",Gg. M.H Thamrin No. 5,Depok,4.9
+90,Sari Gunarto,+6284094279087,sarigunarto@gmail.com,"AC Installation, Computer Repair",15,,Jl. Otto Iskandardinata No. 0,Serang,3.9
+91,Jefri Usamah,+6286318701419,jefriusamah@gmail.com,"Plumbing Installation, Washing Machine Repair",4,,Jl. Soekarno Hatta No. 196,Tegal,3.8
+92,Luthfi Okta Winarno,+62818424469182,luthfiwinarno@gmail.com,"Computer Repair, Electrical Maintenance",7,,Jl. Dr. Djunjunan No. 22,Palopo,4.4
+93,Winda Hidayanto,+6282619377044,windahidayanto@gmail.com,"Refrigerator Repair, Computer Repair",12,Sertifikasi Profesi Teknik Pendingin,Jalan Surapati No. 44,Lhokseumawe,4.1
+94,Ina Saiful Winarno,+6281479341576,inawinarno@gmail.com,"Electrical Maintenance, Washing Machine Maintenance",15,,Jalan Rajawali Barat No. 6,Balikpapan,4.4
+95,Jarwi Ozy Maryati,+6284549775747,jarwimaryati@gmail.com,"Plumbing Installation, Washing Machine Repair",4,,Gang Kiaracondong No. 743,Sukabumi,4.0
+96,Erik Zulfa Sihombing,+6282593018065,eriksihombing@gmail.com,"Washing Machine Maintenance, AC Repair",6,,Jl. Asia Afrika No. 407,Sorong,4.6
+97,Darmana Gantar Damanik,+6286186869506,darmanadamanik@gmail.com,"Washing Machine Maintenance, AC Maintenance",5,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Gang Jend. Sudirman No. 03,Balikpapan,4.2
+98,Mahdi Kawaca Yuliarti,+6289055771425,mahdiyuliarti@gmail.com,"Refrigerator Repair, AC Installation",5,,Gang Joyoboyo No. 88,Pematangsiantar,4.5
+99,Cakrawala Sabri Prayoga,+6281228992210,cakrawalaprayoga@gmail.com,"Refrigerator Maintenance, Computer Installation",1,,Jalan Waringin No. 590,Pangkalpinang,4.6
+100,Unjani Zulkarnain,+62822248482975,unjanizulkarnain@gmail.com,"Washing Machine Repair, Plumbing Repair",3,,Jl. Cikutra Timur No. 484,Pagaralam,3.6
+101,Marwata Amelia Hastuti,+62855721092332,marwatahastuti@gmail.com,"Washing Machine Maintenance, Plumbing Repair",4,SKA Ahli Teknik Plambing dan Pompa Mekanika,Gg. Gardujati No. 80,Palangkaraya,4.1
+102,Nurul Cengkir Maulana,+6289460615812,nurulmaulana@gmail.com,"Refrigerator Repair, AC Maintenance",2,,Jalan Ahmad Yani No. 867,Manado,3.7
+103,Gandi Unggul Kurniawan,+62854215330840,gandikurniawan@gmail.com,"Computer Installation, Electrical Repair",5,Sertifikat Kompetensi BNSP Teknisi Komputer Muda,Gang Stasiun Wonokromo No. 061,Bandar Lampung,4.5
+104,Garda Hakim,+62833082189572,gardahakim@gmail.com,"AC Installation, Refrigerator Installation",1,,Gang Jend. A. Yani No. 54,Palu,3.6
+105,Cinthia Mahendra,+62897934531617,cinthiamahendra@gmail.com,"Plumbing Maintenance, AC Repair",5,,Gg. M.H Thamrin No. 924,Tebingtinggi,4.3
+106,Darman Silvia Nuraini,+6287511720426,darmannuraini@gmail.com,"Electrical Installation, AC Installation",3,Sertifikasi K3 Teknisi Listrik,Gang Setiabudhi No. 95,Bima,4.8
+107,Pangeran Hutasoit,+6285585719245,pangeranhutasoit@gmail.com,"Plumbing Maintenance, Computer Repair",2,Sertifikat Kompetensi BNSP Teknisi Plumbing & Drainase,Jalan Medokan Ayu No. 9,Sawahlunto,4.4
+108,Ratih Vanesa Hasanah,+62832553450005,ratihhasanah@gmail.com,"Plumbing Maintenance, Computer Maintenance",13,,Gg. KH Amin Jasuta No. 672,Sabang,4.4
+109,Unjani Halim Saptono,+62859938466230,unjanisaptono@gmail.com,"Computer Installation, Electrical Installation",3,Sertifikasi K3 Teknisi Listrik,Gang Tubagus Ismail No. 96,Pekanbaru,4.5
+110,Galih Sitompul,+62828520476588,galihsitompul@gmail.com,"Washing Machine Installation, Plumbing Maintenance",7,,Gg. Ciwastra No. 546,Pasuruan,3.9
+111,Wisnu Agustina,+62880696360138,wisnuagustina@gmail.com,"Washing Machine Repair, Electrical Repair",6,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Gang Raya Ujungberung No. 22,Bukittinggi,3.5
+112,Endah Permadi,+6283317820630,endahpermadi@gmail.com,"Electrical Maintenance, Washing Machine Maintenance",2,,Gang Suniaraja No. 44,Dumai,3.9
+113,Ganda Haryanti,+62895823323067,gandaharyanti@gmail.com,"Refrigerator Installation, Electrical Installation",4,Sertifikasi Teknisi Refrigerasi,Jalan Kebonjati No. 19,Pematangsiantar,4.8
+114,Halim Rahmawati,+62885708324564,halimrahmawati@gmail.com,"Washing Machine Repair, Refrigerator Repair",5,"Sertifikasi LSP Elektronika Teknisi Mesin Cuci, Sertifikasi Teknisi Refrigerasi",Jalan Yos Sudarso No. 655,Bogor,3.9
+115,Irma Carub Tamba,+6285542862221,irmatamba@gmail.com,"Refrigerator Maintenance, Computer Installation",4,,Gang W.R. Supratman No. 55,Yogyakarta,4.6
+116,Najam Haryanto,+6284515542634,najamharyanto@gmail.com,"AC Installation, Electrical Maintenance",1,Sertifikasi K3 Teknisi Listrik,Gg. Pasirkoja No. 53,Tidore Kepulauan,3.8
+117,Nugraha Uwais,+62877017219538,nugrahauwais@gmail.com,"Plumbing Maintenance, Computer Repair",4,,Jalan Raya Setiabudhi No. 31,Subulussalam,4.3
+118,Balangga Simanjuntak,+62873072487535,balanggasimanjuntak@gmail.com,"Washing Machine Repair, Computer Maintenance",1,Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior,Jl. Pasirkoja No. 03,Tegal,4.3
+119,Kiandra Novitasari,+62851857398618,kiandranovitasari@gmail.com,"Computer Maintenance, Washing Machine Installation",1,,Gang Gedebage Selatan No. 410,Magelang,4.1
+120,Nadine Sitompul,+62840893961028,nadinesitompul@gmail.com,"Refrigerator Repair, Plumbing Maintenance",5,,Gang M.T Haryono No. 107,Madiun,4.9
+121,Najam Tirta Novitasari,+6283741949601,najamnovitasari@gmail.com,"Refrigerator Maintenance, Computer Repair",4,Sertifikasi Profesi Teknik Pendingin,Gang Pacuan Kuda No. 8,Palu,3.7
+122,Luhung Puspasari,+62896859133987,luhungpuspasari@gmail.com,"Refrigerator Repair, AC Repair",11,,Jalan Ciwastra No. 72,Probolinggo,4.7
+123,Rahmat Winarno,+62856112785695,rahmatwinarno@gmail.com,"Refrigerator Maintenance, Computer Installation",2,Sertifikasi Profesi Teknik Pendingin,Jl. KH Amin Jasuta No. 685,Prabumulih,3.8
+124,Gatra Mitra Natsir,+6283390535179,gatranatsir@gmail.com,"Electrical Installation, AC Installation",5,,Jalan Cihampelas No. 33,Semarang,4.7
+125,Nrima Fujiati,+6289850655077,nrimafujiati@gmail.com,"Computer Installation, AC Maintenance",6,Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior,Jalan Suniaraja No. 9,Padang,3.6
+126,Ami Nasyiah,+6288128790050,aminasyiah@gmail.com,"Computer Installation, Washing Machine Maintenance",4,,Jl. Peta No. 24,Pangkalpinang,5.0
+127,Vanya Sirait,+6282566081575,vanyasirait@gmail.com,"Computer Repair, Plumbing Maintenance",11,,Jalan Kiaracondong No. 840,Manado,4.7
+128,Zamira Raina Wasita,+6283384984009,zamirawasita@gmail.com,"AC Installation, Electrical Installation",5,Sertifikasi Profesi Teknik Pendingin dan Tata Udara,Gang K.H. Wahid Hasyim No. 66,Bandar Lampung,4.0
+129,Ganep Yuniar,+62863206025851,ganepyuniar@gmail.com,"Electrical Maintenance, AC Maintenance",3,Sertifikasi K3 Teknisi Listrik,Gg. Surapati No. 18,Tegal,4.9
+130,Gara Purnawati,+62814400898950,garapurnawati@gmail.com,"Electrical Repair, Washing Machine Installation",3,Sertifikasi K3 Teknisi Listrik,Jalan Ahmad Yani No. 431,Madiun,4.1
+131,Jaya Gunawan,+6287711006096,jayagunawan@gmail.com,"Refrigerator Maintenance, Electrical Repair",1,Sertifikasi K3 Teknisi Listrik,Jl. Rungkut Industri No. 95,Mojokerto,4.0
+132,Galih Saragih,+6284500229290,galihsaragih@gmail.com,"Computer Maintenance, Refrigerator Installation",14,"Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior, Sertifikasi Profesi Teknik Pendingin",Gg. Laswi No. 57,Banjarbaru,4.6
+133,Margana Anita Prasetyo,+6287243661747,marganaprasetyo@gmail.com,"Refrigerator Maintenance, Computer Repair",3,Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior,Jl. M.H Thamrin No. 16,Metro,4.8
+134,Zizi Wacana,+6289442710264,ziziwacana@gmail.com,"Plumbing Installation, Washing Machine Maintenance",1,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Jl. Rumah Sakit No. 069,Magelang,4.5
+135,Atmaja Luhung Pratama,+6285506089447,atmajapratama@gmail.com,"AC Maintenance, Washing Machine Installation",3,,Jl. Ir. H. Djuanda No. 39,Ambon,4.0
+136,Jarwadi Pradana,+62861619190844,jarwadipradana@gmail.com,"Computer Maintenance, AC Repair",1,,Jl. Yos Sudarso No. 16,Pagaralam,4.1
+137,Dwi Wastuti,+6289141990246,dwiwastuti@gmail.com,"Plumbing Maintenance, Electrical Maintenance",4,Sertifikasi K3 Teknisi Listrik,Jl. M.H Thamrin No. 3,Pekalongan,4.3
+138,Mursita Rahimah,+6289388842207,mursitarahimah@gmail.com,"Refrigerator Maintenance, Electrical Installation",3,Sertifikasi Profesi Teknik Pendingin,Gang Siliwangi No. 558,Yogyakarta,3.8
+139,Elvina Catur Marbun,+62865406574881,elvinamarbun@gmail.com,"AC Repair, Plumbing Repair",1,,Jl. Kutai No. 673,Serang,4.6
+140,Yono Kawaya Hutasoit,+62811375922825,yonohutasoit@gmail.com,"Computer Installation, Electrical Maintenance",11,Sertifikasi K3 Teknisi Listrik,Jalan Cikapayang No. 53,Tangerang Selatan,5.0
+141,Himawan Endah Hastuti,+62864840602976,himawanhastuti@gmail.com,"Electrical Installation, AC Repair",1,Sertifikasi Profesi Teknik Pendingin dan Tata Udara,Gg. Dipatiukur No. 5,Pekalongan,4.5
+142,Asman Purnawati,+62892139541220,asmanpurnawati@gmail.com,"Electrical Repair, Plumbing Maintenance",1,SKA Ahli Teknik Plambing dan Pompa Mekanika,Gang Sentot Alibasa No. 379,Ternate,4.8
+143,Maman Wulan Puspasari,+62867963332725,mamanpuspasari@gmail.com,"Plumbing Maintenance, Computer Repair",1,,Jalan Ciwastra No. 138,Balikpapan,3.8
+144,Wadi Situmorang,+62899925821255,wadisitumorang@gmail.com,"Computer Maintenance, Plumbing Maintenance",1,,Jl. Sukajadi No. 660,Kupang,4.3
+145,Indra Marbun,+6284408102828,indramarbun@gmail.com,"Washing Machine Maintenance, Plumbing Maintenance",2,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Jl. Pasir Koja No. 462,Kediri,3.7
+146,Cahyo Permadi,+6286688329266,cahyopermadi@gmail.com,"Plumbing Maintenance, Electrical Installation",10,Sertifikasi K3 Teknisi Listrik,Jalan Cihampelas No. 89,Kotamobagu,4.4
+147,Ani Gambira Kusmawati,+6284618043022,anikusmawati@gmail.com,"Computer Installation, Plumbing Installation",3,SKA Ahli Teknik Plambing dan Pompa Mekanika,Jalan H.J Maemunah No. 268,Dumai,4.2
+148,Marsudi Azalea Putra,+6283247570834,marsudiputra@gmail.com,"AC Installation, Plumbing Repair",5,,Gg. Kendalsari No. 198,Padangpanjang,4.1
+149,Jamalia Latupono,+6282493677795,jamalialatupono@gmail.com,"Washing Machine Installation, Electrical Installation",3,,Jalan Asia Afrika No. 865,Blitar,3.7
+150,Dagel Malik Pradipta,+6284304229214,dagelpradipta@gmail.com,"Computer Repair, Refrigerator Installation",2,"Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior, Sertifikasi Teknisi Refrigerasi",Gg. Abdul Muis No. 78,Metro,4.1
+151,Yessi Wisnu Rahayu,+6283944220932,yessirahayu@gmail.com,"Electrical Repair, Plumbing Repair",4,"Sertifikasi K3 Teknisi Listrik, SKA Ahli Teknik Plambing dan Pompa Mekanika",Jalan Setiabudhi No. 8,Salatiga,4.1
+152,Titin Padmi Ramadan,+6285092371195,titinramadan@gmail.com,"Washing Machine Installation, Computer Maintenance",5,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Jl. Sukajadi No. 6,Denpasar,4.0
+153,Galih Usamah,+62892012666083,galihusamah@gmail.com,"Washing Machine Maintenance, Plumbing Installation",3,,Jalan Dipatiukur No. 00,Mojokerto,5.0
+154,Bakidin Luwar Maryati,+6287708850459,bakidinmaryati@gmail.com,"Refrigerator Repair, Plumbing Maintenance",5,,Gang Raya Setiabudhi No. 022,Pekanbaru,4.8
+155,Nugraha Mustofa,+6288186958566,nugrahamustofa@gmail.com,"Computer Repair, Plumbing Installation",3,SKA Ahli Teknik Plambing dan Pompa Mekanika,Jl. Ir. H. Djuanda No. 32,Bitung,3.9
+156,Hesti Wacana,+6283028911093,hestiwacana@gmail.com,"Washing Machine Repair, AC Maintenance",5,,Gang Astana Anyar No. 451,Samarinda,4.7
+157,Jelita Nyoman Prakasa,+62816672111372,jelitaprakasa@gmail.com,"Refrigerator Installation, Plumbing Maintenance",6,Sertifikasi Teknisi Refrigerasi,Gg. Bangka Raya No. 4,Surabaya,4.4
+158,Gilang Kariman Mayasari,+6287762757457,gilangmayasari@gmail.com,"Refrigerator Maintenance, Plumbing Installation",4,,Jl. Sukajadi No. 01,Padangpanjang,4.4
+159,Natalia Latupono,+6284572539469,natalialatupono@gmail.com,"Washing Machine Maintenance, AC Installation",10,,Gang Gedebage Selatan No. 4,Cirebon,4.8
+160,Kemal Yoga Putra,+62832085394903,kemalputra@gmail.com,"Plumbing Repair, Electrical Repair",5,,Gg. Rumah Sakit No. 6,Sibolga,3.8
+161,Endra Purnawati,+6284294600321,endrapurnawati@gmail.com,"Electrical Installation, Computer Repair",5,"Sertifikasi K3 Teknisi Listrik, Sertifikat Kompetensi BNSP Teknisi Komputer Spesialis Senior",Gang Ahmad Dahlan No. 8,Banjarbaru,3.7
+162,Balangga Usada,+62848628517608,balanggausada@gmail.com,"Electrical Installation, AC Repair",3,Sertifikasi K3 Teknisi Listrik,Jalan Raya Ujungberung No. 42,Solok,4.6
+163,Hari Hariyah,+62848654032176,harihariyah@gmail.com,"Washing Machine Maintenance, Refrigerator Maintenance",4,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Jl. Dipenogoro No. 28,Mataram,3.7
+164,Puput Widiastuti,+6287650778988,puputwidiastuti@gmail.com,"Refrigerator Maintenance, Electrical Maintenance",4,Sertifikasi K3 Teknisi Listrik,Jalan Suniaraja No. 61,Kota Administrasi Jakarta Pusat,4.3
+165,Kenes Cici Yolanda,+62858159640806,kenesyolanda@gmail.com,"AC Installation, Plumbing Maintenance",5,,Jalan Setiabudhi No. 1,Sawahlunto,4.0
+166,Prasetyo Timbul Wijayanti,+62869022752427,prasetyowijayanti@gmail.com,"Electrical Maintenance, Refrigerator Maintenance",2,"Sertifikasi K3 Teknisi Listrik, Sertifikasi Profesi Teknik Pendingin",Jl. Tebet Barat Dalam No. 703,Bukittinggi,4.2
+167,Luluh Dirja Anggraini,+6286901473576,luluhanggraini@gmail.com,"Electrical Maintenance, Washing Machine Installation",3,,Jl. Rawamangun No. 910,Mojokerto,4.7
+168,Kasiran Anggriawan,+62844181846816,kasirananggriawan@gmail.com,"Plumbing Repair, Computer Maintenance",5,SKA Ahli Teknik Plambing dan Pompa Mekanika,Jalan Surapati No. 62,Bitung,4.2
+169,Lurhur Cakrawala Agustina,+62894563909260,lurhuragustina@gmail.com,"Computer Repair, Washing Machine Maintenance",7,,Gang Soekarno Hatta No. 79,Tasikmalaya,4.9
+170,Puput Utama,+6282946848053,pupututama@gmail.com,"Electrical Installation, Plumbing Installation",5,Sertifikat Kompetensi BNSP Teknisi Plumbing & Drainase,Jalan Erlangga No. 2,Kotamobagu,4.2
+171,Atma Gunarto,+6281409999582,atmagunarto@gmail.com,"Washing Machine Repair, Plumbing Maintenance",1,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Jalan Sukabumi No. 5,Pariaman,4.3
+172,Maman Maheswara,+6284254393824,mamanmaheswara@gmail.com,"AC Installation, Refrigerator Repair",11,"Sertifikasi Teknisi Refrigerasi dan Tata Udara, Sertifikasi Profesi Teknik Pendingin",Jalan Jamika No. 302,Sorong,3.7
+173,Oskar Saragih,+62856214968565,oskarsaragih@gmail.com,"AC Repair, Refrigerator Repair",5,Sertifikasi Profesi Teknik Pendingin,Jl. Moch. Toha No. 508,Tangerang Selatan,4.1
+174,Eka Hairyanto Sitorus,+62838972635129,ekasitorus@gmail.com,"AC Installation, Washing Machine Repair",1,,Gg. M.T Haryono No. 70,Serang,3.9
+175,Lurhur Tari Wijaya,+62878747721933,lurhurwijaya@gmail.com,"AC Repair, Refrigerator Maintenance",10,Sertifikasi Teknisi Refrigerasi dan Tata Udara,Gg. Cikutra Timur No. 98,Yogyakarta,4.5
+176,Manah Raisa Uwais,+6282856699419,manahuwais@gmail.com,"Refrigerator Maintenance, AC Repair",5,Sertifikasi Profesi Teknik Pendingin,Gg. Rajawali Timur No. 582,Padang Sidempuan,4.7
+177,Teddy Ajeng Dabukke,+62867636852827,teddydabukke@gmail.com,"Computer Repair, Refrigerator Repair",5,"Sertifikat Kompetensi BNSP Teknisi Komputer Muda, Sertifikasi Teknisi Refrigerasi",Gg. Gegerkalong Hilir No. 7,Depok,4.9
+178,Puti Dariati Waluyo,+62868600838808,putiwaluyo@gmail.com,"Plumbing Repair, AC Repair",4,,Gg. Rungkut Industri No. 7,Tarakan,4.7
+179,Hasim Santoso,+62899519496261,hasimsantoso@gmail.com,"Refrigerator Installation, Computer Maintenance",14,Sertifikat Kompetensi BNSP Teknisi Komputer Muda,Jl. Rajiman No. 587,Tanjungbalai,4.9
+180,Erik Satya Astuti,+6289463364748,erikastuti@gmail.com,"Refrigerator Maintenance, Computer Maintenance",1,,Gang Rajiman No. 55,Banjarmasin,4.7
+181,Kanda Purnawati,+6286558414448,kandapurnawati@gmail.com,"Computer Repair, Washing Machine Repair",2,Sertifikat Kompetensi BNSP Teknisi Komputer Muda,Jl. Raya Setiabudhi No. 5,Bandar Lampung,5.0
+182,Irsad Hariyah,+62833529087497,irsadhariyah@gmail.com,"Computer Maintenance, Refrigerator Repair",5,Sertifikasi Profesi Teknik Pendingin,Gg. Bangka Raya No. 3,Tarakan,4.5
+183,Calista Hidayat,+62830041777484,calistahidayat@gmail.com,"Washing Machine Installation, Plumbing Installation",1,,Jl. Kutisari Selatan No. 278,Ambon,3.9
+184,Kunthara Cahyono Permadi,+6285927266714,kuntharapermadi@gmail.com,"AC Installation, Washing Machine Maintenance",8,Sertifikasi Profesi Teknik Pendingin dan Tata Udara,Gg. Dr. Djunjunan No. 32,Purwokerto,4.7
+185,Cakrajiya Rahayu,+6288500909402,cakrajiyarahayu@gmail.com,"Washing Machine Maintenance, Computer Maintenance",4,,Jalan Ir. H. Djuanda No. 238,Tangerang Selatan,4.7
+186,Wisnu Nugraha Irawan,+6284311165480,wisnuirawan@gmail.com,"Plumbing Repair, Computer Repair",14,SKA Ahli Teknik Plambing dan Pompa Mekanika,Jl. Abdul Muis No. 15,Surakarta,5.0
+187,Galang Jelita Hutapea,+62819048172462,galanghutapea@gmail.com,"Computer Maintenance, Electrical Repair",3,,Gg. Cihampelas No. 7,Semarang,3.5
+188,Hardi Aisyah Rahayu,+6284947338669,hardirahayu@gmail.com,"Plumbing Repair, Computer Installation",1,,Gang Dipenogoro No. 4,Kota Administrasi Jakarta Selatan,4.0
+189,Tasdik Estiono Firgantoro,+62895386590347,tasdikfirgantoro@gmail.com,"Plumbing Maintenance, Refrigerator Installation",4,SKA Ahli Teknik Plambing dan Pompa Mekanika,Gang Rungkut Industri No. 2,Magelang,4.4
+190,Ivan Mandala,+6281075047343,ivanmandala@gmail.com,"Washing Machine Maintenance, Refrigerator Repair",5,Sertifikasi Teknisi Refrigerasi,Gg. S. Parman No. 02,Prabumulih,3.7
+191,Michelle Usamah,+62892504994488,michelleusamah@gmail.com,"Washing Machine Repair, Electrical Maintenance",9,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Gang Lembong No. 5,Surakarta,4.1
+192,Puji Farida,+6283103215613,pujifarida@gmail.com,"AC Installation, Computer Repair",5,,Gang Jayawijaya No. 9,Pangkalpinang,4.5
+193,Maryanto Ikhsan Aryani,+6289788086645,maryantoaryani@gmail.com,"Electrical Repair, Plumbing Installation",2,Sertifikasi K3 Teknisi Listrik,Jl. Peta No. 998,Binjai,3.9
+194,Jaeman Habibi,+62843209204971,jaemanhabibi@gmail.com,"Electrical Maintenance, Refrigerator Installation",2,,Jl. Gegerkalong Hilir No. 2,Malang,4.7
+195,Gada Dinda Andriani,+62849071230335,gadaandriani@gmail.com,"Computer Installation, Electrical Installation",1,Sertifikasi K3 Teknisi Listrik,Jl. Kutisari Selatan No. 6,Tasikmalaya,4.3
+196,Syahrini Nugroho,+62821886176338,syahrininugroho@gmail.com,"Electrical Repair, AC Maintenance",3,,Gg. Merdeka No. 135,Lubuklinggau,4.5
+197,Putri Jagapati Widiastuti,+6283467896345,putriwidiastuti@gmail.com,"Plumbing Installation, Electrical Installation",4,Sertifikat Kompetensi BNSP Teknisi Plumbing & Drainase,Gg. Jamika No. 71,Tidore Kepulauan,4.8
+198,Pranawa Gara Kuswoyo,+62878690719293,pranawakuswoyo@gmail.com,"Computer Installation, Washing Machine Repair",4,,Gg. Cempaka No. 5,Binjai,4.3
+199,Niyaga Ayu Maulana,+6289018566866,niyagamaulana@gmail.com,"Plumbing Installation, Refrigerator Maintenance",5,SKA Ahli Teknik Plambing dan Pompa Mekanika,Gg. Dipatiukur No. 429,Kupang,4.2
+200,Garda Dongoran,+62821923651985,gardadongoran@gmail.com,"Washing Machine Maintenance, Plumbing Repair",9,Sertifikasi LSP Elektronika Teknisi Mesin Cuci,Jalan Indragiri No. 903,Banjarmasin,3.7
