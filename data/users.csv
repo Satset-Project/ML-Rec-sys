@@ -1,0 +1,251 @@
+userid,name,location,preferences,technicianid,ratingsgiven
+1,Himawan Sakura Nurdiyanti,Sungai Penuh,Washing Machine Installation,"[167, 137, 143, 156]","[4.1, 4.0, 4.3, 4.1]"
+2,Fathonah Puspita,Bogor,Refrigerator Installation,"[99, 186, 84]","[4.0, 3.6, 4.9]"
+3,Martaka Purwa Namaga,Kupang,Electrical Repair,"[88, 190, 117, 84, 23]","[4.1, 4.7, 4.3, 4.4, 4.5]"
+4,Kardi Yuliana Zulkarnain,Meulaboh,Washing Machine Installation,[137],[3.6]
+5,Martaka Tarihoran,Manado,Computer Installation,[81],[3.8]
+6,Dipa Budiyanto,Ternate,Plumbing Repair,"[185, 74]","[3.9, 4.4]"
+7,Viktor Cecep Simbolon,Samarinda,AC Repair,"[154, 134, 108, 87, 50]","[4.3, 3.9, 4.2, 4.8, 3.7]"
+8,Okta Puspita,Sukabumi,AC Installation,"[95, 70, 195, 103, 156]","[4.2, 4.8, 3.7, 4.4, 4.9]"
+9,Daryani Melani,Prabumulih,Refrigerator Installation,"[75, 31, 172, 196]","[4.0, 3.7, 4.5, 3.6]"
+10,Bahuwirya Winarsih,Madiun,Plumbing Installation,"[14, 111, 6]","[4.9, 4.2, 4.2]"
+11,Caraka Sihotang,Kediri,Electrical Repair,[142],[5.0]
+12,Iriana Permata,Bitung,Washing Machine Maintenance,"[154, 106]","[4.2, 4.6]"
+13,Ganep Jati Suwarno,Semarang,AC Repair,"[164, 68]","[3.6, 4.1]"
+14,Maimunah Harja Hutapea,Makassar,Refrigerator Installation,"[92, 99, 8, 175, 53]","[4.4, 4.8, 3.8, 3.7, 4.9]"
+15,Harsaya Gading Nuraini,Parepare,Refrigerator Repair,"[98, 146, 15]","[4.0, 3.7, 4.8]"
+16,Lulut Hartati,Tangerang,Computer Repair,"[136, 69, 123]","[4.6, 4.8, 4.1]"
+17,Lukita Dalima Prasetyo,Kota Administrasi Jakarta Timur,Electrical Repair,"[128, 57, 158]","[4.5, 4.4, 3.6]"
+18,Rama Utama Sudiati,Gorontalo,Electrical Repair,[72],[4.7]
+19,Gaman Rahayu,Langsa,AC Installation,[14],[4.1]
+20,Patricia Pudjiastuti,Padang Sidempuan,Electrical Repair,"[28, 39]","[4.5, 4.7]"
+21,Prayitna Siregar,Surakarta,Computer Installation,"[177, 40]","[3.8, 4.8]"
+22,Latif Mangunsong,Subulussalam,Electrical Repair,[146],[3.5]
+23,Bahuwirya Ega Halimah,Banjarbaru,Refrigerator Maintenance,"[137, 68]","[4.0, 3.6]"
+24,Setya Prayogo Damanik,Payakumbuh,Electrical Maintenance,"[164, 105]","[4.4, 4.0]"
+25,Reksa Aslijan Dabukke,Tegal,AC Installation,"[30, 9, 14, 191]","[4.5, 3.7, 4.9, 4.2]"
+26,Intan Mustofa,Pangkalpinang,Computer Maintenance,"[179, 26, 155]","[3.6, 3.8, 4.5]"
+27,Salimah Siregar,Tebingtinggi,Refrigerator Maintenance,"[37, 112, 72, 118, 44]","[4.1, 3.5, 3.9, 4.5, 4.2]"
+28,Wirda Jaswadi Putra,Bekasi,Refrigerator Repair,"[27, 9, 115, 63]","[4.5, 3.7, 4.6, 4.8]"
+29,Rafid Wasita,Pagaralam,Computer Maintenance,"[34, 179]","[3.6, 3.7]"
+30,Clara Tamba,Bandar Lampung,Computer Repair,"[61, 15, 142]","[4.7, 3.9, 4.7]"
+31,Widya Putra,Solok,Computer Maintenance,"[40, 169, 152, 22, 68]","[4.3, 4.0, 3.8, 4.7, 3.6]"
+32,Heru Mansur,Tual,Electrical Installation,"[72, 127, 197, 131, 200]","[3.7, 3.7, 3.5, 4.5, 3.9]"
+33,Aditya Luluh Wibisono,Salatiga,Electrical Repair,"[105, 196, 58, 81, 172]","[4.4, 4.6, 4.3, 4.7, 4.1]"
+34,Balijan Taufik Sirait,Malang,Computer Repair,"[107, 33, 87, 112]","[4.4, 3.6, 4.3, 4.9]"
+35,Gadang Luluh Wijaya,Pontianak,Washing Machine Installation,"[32, 127, 191]","[4.3, 5.0, 5.0]"
+36,Kasiran Kuswandari,Tasikmalaya,Plumbing Repair,"[62, 159, 176]","[4.2, 4.4, 3.6]"
+37,Rahmat Asmuni Samosir,Mataram,Computer Repair,"[87, 122, 66, 169, 131]","[3.7, 3.7, 4.4, 4.8, 4.2]"
+38,Betania Patricia Prasetya,Batu,Refrigerator Maintenance,[64],[4.0]
+39,Parman Hendra Novitasari,Bima,Electrical Repair,"[104, 53]","[4.4, 3.9]"
+40,Kala Wahyu Situmorang,Bekasi,Electrical Repair,[106],[4.0]
+41,Balamantri Jamalia Wacana,Bandar Lampung,Plumbing Maintenance,"[83, 112, 12, 9]","[4.2, 3.8, 4.7, 4.4]"
+42,Zelaya Darimin Natsir,Sungai Penuh,Washing Machine Installation,[66],[4.4]
+43,Bagiya Kemal Latupono,Bukittinggi,Electrical Maintenance,"[76, 198]","[4.3, 4.9]"
+44,Yunita Gatra Mangunsong,Palopo,Plumbing Repair,[170],[4.7]
+45,Nyana Dimas Adriansyah,Bontang,Washing Machine Repair,[186],[3.7]
+46,Putri Hendra Widiastuti,Bontang,Electrical Repair,[145],[3.9]
+47,Farhunnisa Saptono,Padang Sidempuan,AC Maintenance,"[104, 82, 186]","[4.0, 3.9, 4.2]"
+48,Bagas Gaduh Dabukke,Tanjungbalai,Plumbing Maintenance,"[156, 92, 170, 192]","[4.8, 4.1, 4.5, 3.7]"
+49,Elvin Rahmat Uyainah,Lhokseumawe,Plumbing Installation,[175],[4.7]
+50,Kardi Ikin Prakasa,Binjai,Refrigerator Maintenance,"[128, 173]","[4.5, 4.6]"
+51,Bagas Ulva Habibi,Pontianak,Refrigerator Repair,"[170, 109]","[4.8, 4.9]"
+52,Azalea Damanik,Malang,Plumbing Maintenance,"[127, 173, 126]","[4.5, 4.3, 4.7]"
+53,Kemal Natalia Januar,Surakarta,Plumbing Maintenance,"[59, 162, 38]","[3.9, 4.2, 4.5]"
+54,Jabal Yuliana Rajasa,Palembang,Refrigerator Installation,[149],[4.3]
+55,Ira Megantara,Kota Administrasi Jakarta Utara,Refrigerator Maintenance,"[75, 162, 84, 110]","[3.8, 4.5, 5.0, 4.4]"
+56,Vero Narpati,Jayapura,Plumbing Maintenance,"[134, 34, 96, 179, 131]","[4.8, 4.8, 3.7, 4.5, 3.9]"
+57,Adika Mutia Pradipta,Sawahlunto,Electrical Maintenance,"[69, 77]","[4.4, 4.8]"
+58,Gamani Widodo,Bima,AC Installation,"[185, 64, 24]","[3.5, 3.8, 4.0]"
+59,Atma Hassanah,Surabaya,Computer Repair,"[183, 43]","[4.7, 4.2]"
+60,Raden Mandala,Manado,Washing Machine Repair,"[111, 72, 1, 194]","[4.9, 4.6, 4.7, 4.0]"
+61,Garang Zamira Mustofa,Solok,Electrical Repair,"[7, 48]","[4.2, 4.0]"
+62,Dasa Lulut Siregar,Kendari,Electrical Installation,[174],[3.6]
+63,Balapati Dalima Puspasari,Purwokerto,AC Maintenance,"[89, 1, 38]","[3.9, 4.7, 3.8]"
+64,Eko Narji Fujiati,Surabaya,Washing Machine Maintenance,"[151, 22, 137, 70, 197]","[3.9, 4.8, 3.7, 4.3, 4.3]"
+65,Maimunah Hutasoit,Pekanbaru,Washing Machine Installation,"[93, 92]","[4.3, 4.3]"
+66,Luhung Dipa Putra,Batam,Plumbing Maintenance,"[151, 51, 177]","[4.5, 4.6, 3.6]"
+67,Salman Bakti Waskita,Payakumbuh,Plumbing Maintenance,"[131, 181]","[4.0, 4.4]"
+68,Calista Yani Kurniawan,Pasuruan,Plumbing Maintenance,"[168, 62, 176, 194]","[3.5, 4.3, 4.1, 4.9]"
+69,Ade Novi Winarsih,Tasikmalaya,Plumbing Repair,"[57, 125, 190, 200, 92]","[3.9, 4.8, 4.2, 4.6, 4.2]"
+70,Aswani Ina Dabukke,Tual,AC Installation,"[53, 74]","[4.3, 5.0]"
+71,Jabal Sihotang,Tidore Kepulauan,Plumbing Installation,"[11, 5]","[4.3, 4.5]"
+72,Pranata Banawa Pudjiastuti,Batu,Computer Repair,"[8, 124, 200]","[4.5, 4.5, 4.2]"
+73,Cengkir Saragih,Padangpanjang,Computer Repair,"[179, 139, 153]","[3.7, 3.5, 4.9]"
+74,Dwi Sirait,Sawahlunto,Computer Repair,"[6, 16, 106]","[3.6, 4.0, 4.7]"
+75,Zaenab Gilda Januar,Padangpanjang,AC Maintenance,"[153, 160]","[3.8, 3.7]"
+76,Daliono Mulyani,Bitung,AC Repair,"[58, 89, 23]","[4.3, 4.3, 4.2]"
+77,Alika Dewi Lailasari,Tarakan,Refrigerator Repair,"[160, 76, 168, 153]","[4.5, 3.6, 4.1, 4.5]"
+78,Ella Permata,Bima,Computer Installation,"[86, 121, 136, 31]","[3.5, 4.9, 4.8, 3.7]"
+79,Kadir Permadi,Pangkalpinang,AC Repair,[26],[4.9]
+80,Putri Siti Gunawan,Lhokseumawe,AC Repair,[148],[4.7]
+81,Fitriani Sirait,Kota Administrasi Jakarta Pusat,Electrical Repair,[103],[4.8]
+82,Tiara Melani,Metro,AC Installation,"[165, 40, 2]","[4.6, 4.3, 4.2]"
+83,Erik Saefullah,Palu,Electrical Repair,"[158, 43, 50]","[3.9, 3.6, 4.5]"
+84,Ismail Kuswoyo,Tual,Computer Repair,[101],[3.7]
+85,Bagas Maryanto Prayoga,Tangerang,Plumbing Installation,"[137, 122]","[3.7, 4.8]"
+86,Agus Pangestu,Gorontalo,Plumbing Maintenance,"[186, 89]","[3.7, 3.6]"
+87,Laila Among Ramadan,Ambon,Refrigerator Repair,"[22, 132, 97]","[4.3, 3.6, 4.5]"
+88,Danang Muni Zulkarnain,Cilegon,Plumbing Installation,"[166, 92, 66, 126]","[3.8, 3.8, 3.6, 4.9]"
+89,Sabar Sinaga,Banjar,Refrigerator Maintenance,"[36, 23, 127, 71]","[4.0, 3.5, 4.8, 4.1]"
+90,Bagiya Hartati,Kota Administrasi Jakarta Utara,Plumbing Repair,"[195, 117, 94, 158, 18]","[3.8, 4.0, 3.9, 4.1, 3.5]"
+91,Salwa Asman Oktaviani,Kota Administrasi Jakarta Pusat,Refrigerator Maintenance,"[64, 87, 126]","[3.9, 4.2, 3.6]"
+92,Lintang Anggriawan,Cirebon,Electrical Maintenance,"[180, 102]","[4.1, 4.5]"
+93,Langgeng Mardhiyah,Pasuruan,Washing Machine Maintenance,"[25, 148, 195, 6]","[3.9, 3.5, 3.7, 4.1]"
+94,Emin Januar,Surabaya,Refrigerator Maintenance,[32],[4.3]
+95,Muhammad Suryatmi,Surakarta,Computer Installation,"[190, 106]","[4.2, 3.8]"
+96,Yono Hardiansyah,Tidore Kepulauan,Washing Machine Installation,[169],[4.3]
+97,Halim Budiyanto,Salatiga,Plumbing Installation,"[110, 68, 195, 89, 123]","[4.3, 4.2, 4.9, 4.5, 3.7]"
+98,Kenes Winarsih,Tangerang,Computer Maintenance,[17],[3.9]
+99,Kemba Reksa Sihotang,Tebingtinggi,Washing Machine Maintenance,"[54, 92, 6, 93]","[4.8, 4.3, 4.7, 3.7]"
+100,Margana Jamal Yuniar,Palopo,AC Repair,"[20, 137]","[3.8, 3.7]"
+101,Jamal Ajeng Nashiruddin,Surabaya,Plumbing Installation,"[105, 165, 93, 156, 35]","[4.6, 3.6, 3.9, 4.2, 3.7]"
+102,Reksa Victoria Hasanah,Cilegon,Computer Installation,[76],[4.6]
+103,Gantar Megantara,Tangerang Selatan,Plumbing Installation,[117],[3.5]
+104,Capa Gandi Hasanah,Tangerang,Computer Installation,"[147, 62]","[4.9, 4.7]"
+105,Yance Tarihoran,Padang,Washing Machine Repair,"[48, 162, 97]","[3.5, 3.8, 4.8]"
+106,Ibrahim Slamet Wijayanti,Makassar,AC Repair,"[135, 97, 74, 137]","[4.2, 4.3, 3.8, 3.6]"
+107,Garan Aurora Saragih,Surabaya,Computer Maintenance,"[13, 52, 189]","[4.4, 3.8, 3.5]"
+108,Ega Puspita,Denpasar,Refrigerator Repair,"[38, 51]","[4.4, 3.8]"
+109,Karya Rina Pradana,Kupang,Washing Machine Repair,[43],[4.7]
+110,Widya Hartati,Pagaralam,Plumbing Installation,"[30, 56, 175, 100, 47]","[3.7, 4.8, 4.9, 4.3, 4.1]"
+111,Dirja Prastuti,Pariaman,Computer Installation,"[10, 33]","[3.5, 3.9]"
+112,Wisnu Waskita,Sorong,Plumbing Installation,"[100, 85, 99, 177, 81]","[4.7, 4.6, 3.8, 3.8, 4.6]"
+113,Martana Aryani,Cimahi,Refrigerator Maintenance,"[131, 145]","[4.1, 4.4]"
+114,Victoria Nrima Rahayu,Cirebon,Plumbing Installation,"[86, 132]","[4.3, 4.7]"
+115,Puspa Nurdiyanti,Medan,Refrigerator Installation,"[93, 111, 69]","[4.8, 3.6, 4.2]"
+116,Zamira Melani,Bogor,AC Repair,[176],[4.0]
+117,Zahra Ajimin Wastuti,Kotamobagu,AC Installation,[198],[3.8]
+118,Artawan Hairyanto Hutapea,Langsa,Electrical Repair,[22],[4.0]
+119,Novi Saefullah,Jayapura,Refrigerator Repair,"[63, 9, 61, 151, 18]","[3.5, 4.0, 3.7, 3.9, 3.9]"
+120,Kenzie Prayoga,Ambon,Washing Machine Maintenance,"[130, 38, 173]","[3.7, 3.6, 4.5]"
+121,Harsana Marwata Agustina,Kotamobagu,AC Maintenance,"[47, 198, 5, 64, 124]","[4.8, 4.0, 3.7, 3.5, 4.3]"
+122,Kairav Gamblang Mangunsong,Semarang,AC Repair,"[152, 151]","[4.4, 4.5]"
+123,Fathonah Hariyah,Palangkaraya,Plumbing Repair,"[43, 118, 123]","[3.6, 4.8, 4.5]"
+124,Sakti Kala Setiawan,Tomohon,Washing Machine Installation,"[84, 162, 175]","[4.2, 4.2, 4.8]"
+125,Luluh Sidiq Kusumo,Kediri,AC Repair,"[107, 124, 95, 140, 73]","[4.1, 4.3, 4.5, 3.6, 4.7]"
+126,Puji Estiono Dongoran,Denpasar,Refrigerator Maintenance,"[147, 196]","[4.1, 4.8]"
+127,Amelia Darmanto Sirait,Ternate,Electrical Installation,"[55, 76, 36]","[3.8, 4.8, 4.3]"
+128,Talia Hutasoit,Meulaboh,Computer Maintenance,"[196, 181]","[4.6, 4.2]"
+129,Cengkir Malik Saptono,Ambon,Computer Repair,"[150, 160, 126]","[4.5, 3.9, 4.5]"
+130,Erik Puti Rajasa,Palangkaraya,Plumbing Installation,"[96, 161, 167, 86]","[3.9, 4.6, 4.8, 4.5]"
+131,Uli Hilda Hakim,Prabumulih,Refrigerator Maintenance,"[110, 69, 138]","[4.1, 4.9, 4.1]"
+132,Kenes Saputra,Bontang,Refrigerator Repair,"[155, 14]","[3.9, 4.0]"
+133,Dina Maryati,Malang,AC Installation,"[135, 192, 103]","[4.7, 4.0, 4.6]"
+134,Febi Yuniar,Mataram,AC Maintenance,[101],[3.9]
+135,Nasim Asman Maryati,Samarinda,AC Installation,"[183, 16, 109]","[3.5, 3.8, 3.6]"
+136,Nilam Gangsa Safitri,Semarang,Washing Machine Maintenance,[191],[4.5]
+137,Hartaka Yolanda,Bekasi,Plumbing Repair,[20],[4.4]
+138,Eka Gambira Yulianti,Pekanbaru,AC Installation,"[199, 165, 191, 109]","[4.1, 3.9, 4.6, 4.4]"
+139,Nrima Maya Prasasta,Probolinggo,Plumbing Installation,"[91, 185, 159, 177, 154]","[4.2, 3.7, 5.0, 3.9, 4.9]"
+140,Balapati Upik Najmudin,Tangerang Selatan,AC Repair,"[98, 74, 157, 39]","[4.2, 4.6, 3.8, 4.9]"
+141,Artawan Intan Habibi,Pagaralam,Electrical Maintenance,"[79, 22]","[4.6, 4.1]"
+142,Gamblang Estiono Riyanti,Pekanbaru,Plumbing Installation,[91],[3.8]
+143,Ismail Nasrullah Laksita,Cilegon,AC Maintenance,"[12, 73]","[4.7, 4.3]"
+144,Kamaria Hassanah,Tebingtinggi,Refrigerator Installation,"[134, 107, 158, 198]","[4.0, 4.3, 4.7, 4.9]"
+145,Gandewa Prakasa,Gorontalo,Electrical Maintenance,"[41, 200, 22]","[3.8, 4.7, 3.8]"
+146,Kamal Novitasari,Metro,Refrigerator Maintenance,[61],[4.3]
+147,Endra Pradana,Banda Aceh,Electrical Installation,"[108, 144, 182]","[3.9, 3.5, 4.2]"
+148,Cici Ardianto,Banjar,Plumbing Repair,[96],[4.6]
+149,Luhung Asmianto Uwais,Tanjungbalai,Computer Installation,"[4, 54]","[3.8, 3.7]"
+150,Wage Anita Salahudin,Pekalongan,Computer Repair,"[111, 86, 20, 100]","[4.4, 4.5, 4.4, 4.7]"
+151,Betania Lutfan Siregar,Malang,AC Repair,[159],[4.9]
+152,Ade Damar Nurdiyanti,Kotamobagu,Electrical Maintenance,"[178, 128, 26]","[4.6, 4.6, 4.3]"
+153,Usyi Wahyuni,Banda Aceh,Computer Repair,[54],[4.9]
+154,Bancar Bagya Zulkarnain,Makassar,Computer Maintenance,"[50, 170]","[4.0, 3.9]"
+155,Lamar Tampubolon,Kota Administrasi Jakarta Pusat,Plumbing Maintenance,"[19, 98, 163, 52]","[4.4, 4.3, 4.7, 3.9]"
+156,Queen Prasetya,Binjai,Computer Maintenance,"[143, 147]","[3.7, 4.0]"
+157,Septi Waluyo,Kotamobagu,Refrigerator Installation,"[18, 200, 168, 89]","[5.0, 3.8, 4.6, 4.8]"
+158,Ivan Situmorang,Pematangsiantar,Electrical Installation,"[32, 118, 45, 26, 33]","[4.4, 4.8, 4.8, 3.7, 3.7]"
+159,Makuta Salsabila Nasyiah,Sawahlunto,AC Installation,"[30, 120, 84, 24]","[4.6, 4.4, 4.2, 4.8]"
+160,Cawuk Suartini,Sukabumi,Electrical Installation,"[157, 72, 27, 36]","[3.5, 4.9, 3.5, 4.8]"
+161,Teguh Oktaviani,Sungai Penuh,Washing Machine Maintenance,"[177, 10]","[3.6, 3.5]"
+162,Mila Bakiadi Kusumo,Kota Administrasi Jakarta Pusat,Electrical Repair,"[143, 3]","[4.1, 4.5]"
+163,Rahmi Sihombing,Pagaralam,AC Installation,"[91, 152, 198, 147, 122]","[4.9, 4.4, 4.8, 3.6, 4.2]"
+164,Mumpuni Halimah,Bandar Lampung,Washing Machine Repair,"[144, 87, 67, 103, 191]","[3.9, 4.3, 3.6, 4.8, 4.6]"
+165,Opan Emong Prastuti,Kota Administrasi Jakarta Utara,Washing Machine Repair,"[66, 151, 51, 29, 58]","[3.9, 4.3, 4.3, 4.5, 4.2]"
+166,Himawan Kusumo,Balikpapan,AC Repair,"[164, 72, 162, 13, 166]","[4.8, 4.7, 4.9, 4.0, 3.8]"
+167,Nova Irsad Halim,Samarinda,Refrigerator Maintenance,[97],[3.6]
+168,Kamal Rahayu Anggriawan,Padang,Washing Machine Installation,"[138, 85, 84, 60]","[3.5, 3.8, 4.9, 3.6]"
+169,Salimah Jati Kusmawati,Sukabumi,Computer Maintenance,[174],[4.0]
+170,Gaiman Dina Ardianto,Pasuruan,Refrigerator Repair,"[107, 23, 41]","[5.0, 4.4, 4.5]"
+171,Vero Damanik,Singkawang,AC Maintenance,"[189, 3, 38]","[4.8, 4.4, 4.0]"
+172,Gandewa Nababan,Cirebon,Plumbing Maintenance,"[48, 2]","[4.7, 5.0]"
+173,Cawisadi Silvia Yuliarti,Samarinda,Washing Machine Installation,"[166, 198, 41, 76]","[4.5, 3.8, 5.0, 3.8]"
+174,Luluh Panji Kusumo,Denpasar,Computer Installation,"[96, 169]","[4.7, 4.4]"
+175,Gaduh Farhunnisa Nugroho,Bontang,Computer Installation,"[30, 52]","[3.8, 4.7]"
+176,Prakosa Rama Damanik,Jayapura,Plumbing Installation,"[110, 54, 63, 156]","[3.6, 3.8, 4.5, 3.9]"
+177,Muhammad Marpaung,Banjarmasin,Electrical Repair,"[1, 44, 31, 147]","[4.0, 4.1, 3.6, 3.5]"
+178,Kayun Pranawa Kusumo,Bau-Bau,Computer Repair,"[153, 109]","[4.5, 4.1]"
+179,Dian Intan Waluyo,Pekalongan,Refrigerator Repair,"[164, 88, 15, 86, 45]","[4.1, 4.0, 4.7, 4.5, 4.1]"
+180,Zelda Eluh Prasetya,Sukabumi,Plumbing Repair,"[78, 175, 71, 53, 177]","[3.7, 4.3, 3.8, 3.6, 3.7]"
+181,Nasab Ani Rajasa,Manado,Electrical Installation,"[28, 135, 192, 179, 50]","[4.8, 4.2, 4.9, 4.7, 4.0]"
+182,Harsana Rahimah,Kota Administrasi Jakarta Pusat,Refrigerator Installation,"[114, 174]","[3.9, 4.8]"
+183,Padmi Tampubolon,Palangkaraya,Plumbing Repair,"[126, 54, 189]","[5.0, 4.8, 4.2]"
+184,Estiawan Irawan,Kota Administrasi Jakarta Utara,Refrigerator Repair,"[75, 77, 159, 179]","[4.2, 3.8, 3.9, 4.4]"
+185,Mumpuni Hutagalung,Balikpapan,Washing Machine Installation,"[160, 62, 177]","[4.9, 4.0, 3.7]"
+186,Gadang Waskita,Sibolga,Computer Repair,"[33, 159, 35, 24, 101]","[3.5, 5.0, 4.8, 4.0, 4.5]"
+187,Raihan Latupono,Mataram,Washing Machine Installation,"[198, 47, 40]","[3.6, 4.7, 3.5]"
+188,Paramita Hidayat,Bengkulu,Electrical Maintenance,"[99, 55, 74]","[3.8, 4.2, 4.4]"
+189,Mursinin Kemba Kurniawan,Padang,Washing Machine Installation,[90],[4.7]
+190,Atmaja Firmansyah,Palopo,Electrical Installation,"[118, 61, 193, 47]","[4.4, 4.9, 5.0, 4.7]"
+191,Mulyanto Muni Prayoga,Kota Administrasi Jakarta Selatan,Plumbing Repair,"[94, 78]","[4.1, 4.8]"
+192,Wage Cawuk Maryati,Mataram,Computer Maintenance,[63],[3.6]
+193,Cahyono Paiman Permadi,Singkawang,Electrical Maintenance,"[99, 148, 80, 108]","[3.7, 3.7, 4.0, 4.9]"
+194,Victoria Luthfi Hartati,Bengkulu,Refrigerator Installation,"[115, 104, 185, 101]","[3.7, 4.7, 3.9, 4.9]"
+195,Keisha Damanik,Balikpapan,Electrical Installation,"[51, 196]","[3.5, 3.8]"
+196,Asmuni Kusumo,Tasikmalaya,Refrigerator Repair,"[34, 143, 62, 138]","[4.8, 4.1, 4.9, 4.2]"
+197,Purwanto Haryanti,Bitung,Refrigerator Maintenance,"[34, 161]","[4.4, 3.8]"
+198,Devi Laksmiwati,Madiun,Computer Installation,"[97, 33]","[3.6, 4.8]"
+199,Harimurti Ana Zulkarnain,Kendari,AC Repair,"[198, 9, 18]","[5.0, 3.9, 3.6]"
+200,Nasab Daru Mulyani,Madiun,Refrigerator Repair,"[173, 75, 103, 199, 157]","[4.5, 4.6, 3.8, 4.7, 4.4]"
+201,Emas Simon Nasyidah,Tual,Refrigerator Repair,[164],[4.9]
+202,Malik Kuswandari,Metro,Washing Machine Maintenance,"[79, 87, 67, 16, 149]","[4.8, 4.7, 4.3, 4.3, 4.9]"
+203,Kawaca Maryadi,Pagaralam,Plumbing Maintenance,"[15, 130, 185]","[4.4, 3.8, 4.0]"
+204,Naradi Hutapea,Kota Administrasi Jakarta Utara,Computer Repair,"[126, 194, 117, 92]","[3.9, 4.3, 4.6, 3.8]"
+205,Paiman Nainggolan,Gorontalo,AC Repair,"[86, 52, 134, 145, 104]","[4.2, 4.9, 3.6, 4.7, 4.1]"
+206,Nasim Olga Damanik,Pontianak,AC Installation,"[173, 121, 89, 84]","[4.9, 3.7, 4.4, 4.0]"
+207,Darijan Suartini,Gorontalo,Refrigerator Installation,"[47, 88, 123, 187, 192]","[3.8, 4.8, 4.9, 4.3, 3.5]"
+208,Galak Fathonah Hutagalung,Banjarmasin,AC Installation,"[82, 143, 15, 177]","[3.8, 4.5, 4.2, 4.2]"
+209,Emil Balapati Waskita,Pontianak,Electrical Installation,"[18, 31, 32, 80]","[5.0, 3.5, 4.1, 4.5]"
+210,Reza Najam Yuniar,Tasikmalaya,Plumbing Repair,"[97, 47, 171, 174, 25]","[4.3, 3.9, 4.6, 4.6, 4.3]"
+211,Jarwa Firgantoro,Pangkalpinang,Electrical Repair,[65],[3.9]
+212,Tirtayasa Hari Kurniawan,Madiun,Plumbing Installation,"[162, 113, 82, 38]","[4.3, 4.3, 4.9, 3.7]"
+213,Anom Sihombing,Bogor,Washing Machine Maintenance,"[104, 120]","[4.6, 4.4]"
+214,Vivi Haryanto,Bandar Lampung,AC Maintenance,"[17, 164, 134]","[4.2, 3.8, 4.2]"
+215,Banara Safitri,Denpasar,Electrical Repair,"[175, 119]","[4.1, 4.0]"
+216,Kamila Permadi,Pasuruan,Plumbing Installation,"[175, 21, 68, 100, 75]","[3.6, 3.7, 4.2, 4.6, 4.6]"
+217,Kacung Nashiruddin,Banda Aceh,Plumbing Installation,"[109, 90]","[4.5, 4.7]"
+218,Pranawa Jarwadi Prasetyo,Palopo,Computer Maintenance,[169],[4.3]
+219,Eli Kenzie Waluyo,Pekanbaru,Electrical Maintenance,"[47, 105, 84]","[3.7, 3.9, 4.9]"
+220,Ian Caket Nainggolan,Pematangsiantar,Electrical Maintenance,[110],[4.6]
+221,Hilda Naradi Budiman,Banjarbaru,Electrical Installation,"[171, 77, 7, 181]","[4.7, 4.4, 3.8, 5.0]"
+222,Halim Padmasari,Kota Administrasi Jakarta Utara,Refrigerator Repair,"[100, 152, 94, 143]","[4.8, 4.8, 3.6, 3.7]"
+223,Adhiarja Lasmanto Lazuardi,Cimahi,Plumbing Maintenance,[153],[5.0]
+224,Emil Maria Napitupulu,Payakumbuh,Computer Repair,[53],[4.7]
+225,Cahyadi Alika Wulandari,Cimahi,Computer Repair,"[194, 198]","[4.6, 4.7]"
+226,Anita Mansur,Jambi,AC Repair,"[168, 101]","[4.0, 4.6]"
+227,Widya Wibisono,Bukittinggi,Electrical Installation,"[87, 182, 162, 25]","[4.3, 4.5, 5.0, 4.5]"
+228,Cinthia Maryati,Bukittinggi,Plumbing Maintenance,"[155, 134, 67, 88]","[3.7, 3.8, 4.1, 4.1]"
+229,Zaenab Pratiwi,Magelang,Electrical Maintenance,[145],[4.8]
+230,Jatmiko Dodo Firgantoro,Metro,Washing Machine Maintenance,"[126, 46, 161, 158]","[4.4, 3.8, 4.5, 3.8]"
+231,Jais Wacana,Blitar,Refrigerator Repair,"[40, 187, 127, 91, 115]","[4.1, 4.3, 4.1, 3.9, 4.0]"
+232,Padmi Maryanto Wibisono,Tanjungbalai,Electrical Installation,"[187, 55]","[3.9, 4.5]"
+233,Luis Thamrin,Kota Administrasi Jakarta Utara,Plumbing Installation,"[199, 116]","[4.2, 4.9]"
+234,Jaeman Halim,Pariaman,AC Maintenance,"[112, 190, 41]","[3.8, 4.1, 4.4]"
+235,Umaya Carla Napitupulu,Batu,Computer Maintenance,[36],[4.7]
+236,Lili Prakasa,Cirebon,Washing Machine Installation,"[61, 188, 181, 25, 166]","[3.7, 4.5, 4.2, 4.5, 4.8]"
+237,Mumpuni Ira Mulyani,Salatiga,Washing Machine Installation,"[96, 179, 193]","[3.5, 4.1, 3.6]"
+238,Setya Mujur Aryani,Palangkaraya,Washing Machine Installation,[63],[3.9]
+239,Kawaca Prakasa,Kota Administrasi Jakarta Barat,Plumbing Maintenance,"[17, 135, 43, 15, 30]","[3.9, 3.8, 4.4, 4.5, 3.6]"
+240,Vino Satya Yuliarti,Banjar,Plumbing Installation,"[31, 38, 9]","[4.2, 3.9, 5.0]"
+241,Yessi Sitompul,Bandar Lampung,Washing Machine Maintenance,"[21, 33]","[4.7, 4.2]"
+242,Jarwi Hamzah Iswahyudi,Banda Aceh,Electrical Maintenance,"[194, 15, 104]","[4.9, 4.0, 4.0]"
+243,Baktiono Mujur Hutasoit,Sibolga,AC Maintenance,"[194, 187, 86]","[3.5, 4.9, 4.6]"
+244,Kalim Respati Yuliarti,Bandung,Washing Machine Installation,"[140, 124, 32]","[3.8, 3.5, 4.3]"
+245,Jasmani Rahmawati,Balikpapan,Electrical Repair,"[33, 197, 182]","[4.2, 4.1, 4.3]"
+246,Jagapati Simanjuntak,Bontang,Computer Installation,"[181, 161, 44]","[4.9, 4.2, 4.6]"
+247,Lanjar Saputra,Palangkaraya,Electrical Repair,"[175, 83, 79, 195]","[3.6, 4.7, 5.0, 4.4]"
+248,Indah Clara Simbolon,Tangerang,Washing Machine Repair,"[52, 175, 139]","[4.1, 5.0, 4.8]"
+249,Galur Habibi,Lhokseumawe,Refrigerator Installation,"[9, 83, 16, 173, 185]","[4.5, 3.7, 4.0, 4.9, 3.7]"
+250,Safina Thamrin,Kota Administrasi Jakarta Timur,Refrigerator Maintenance,"[57, 149, 172, 93]","[5.0, 3.5, 3.9, 3.9]"
