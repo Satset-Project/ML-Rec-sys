@@ -1,13 +1,18 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import numpy as np
-import pandas as pd
 import tensorflow as tf
 import pickle
+import pandas as pd
+
+app = FastAPI()
 
 # Load models and preprocessing objects
-content_based_model = tf.keras.models.load_model('content_based_filtering.h5')
-collaborative_model = tf.keras.models.load_model('collaborative_filtering.h5')
+try:
+    content_based_model = tf.keras.models.load_model('content_based_filtering.h5')
+    collaborative_model = tf.keras.models.load_model('collaborative_filtering.h5')
+except Exception as e:
+    raise RuntimeError(f"Error loading models: {e}")
 
 with open('tfidf_vectorizer.pkl', 'rb') as f:
     tfidf = pickle.load(f)
@@ -23,161 +28,139 @@ with open('technician_id_map.pkl', 'rb') as f:
     technician_id_map = pickle.load(f)
 
 # Load technicians data
-technicians_df = pd.read_csv('technicians.csv')
+try:
+    technicians_df = pd.read_csv('technicians.csv')
+except Exception as e:
+    raise RuntimeError(f"Error loading technicians.csv: {e}")
+
+ori_technician = technicians_df.copy()
+
+# Preprocessing
+tfidf_vectorizer = tfidf
+skills_tfidf = tfidf_vectorizer.transform(technicians_df['skills']).toarray()
+
+# Scale experience and ratings
+technicians_df['experience'] = scaler_experience.transform(technicians_df[['experience']])
+technicians_df['ratingsreceived'] = scaler_ratings.transform(technicians_df[['ratingsreceived']])
+
+# Encode certifications
 certifications_encoded_sparse = encoder.transform(technicians_df[['certifications']])
 certifications_encoded = certifications_encoded_sparse.toarray()
 
-# Define FastAPI app
-app = FastAPI()
+X_exp = technicians_df['experience'].values.reshape(-1, 1)
+X_rating = technicians_df['ratingsreceived'].values.reshape(-1, 1)
+X_cert = certifications_encoded
 
-# Define request and response models
-class UserSkillRequest(BaseModel):
+# Combine features into a single array
+X = np.hstack([skills_tfidf, X_exp, X_cert, X_rating])
+
+# Pydantic models for request and response validation
+class ContentRequest(BaseModel):
     user_skill: str
 
-class HybridRecommendationRequest(BaseModel):
+class CollaborativeRequest(BaseModel):
+    user_id: int
+
+class HybridRequest(BaseModel):
     user_id: int
     user_skill: str
 
-class TechnicianResponse(BaseModel):
-    technician_id: int
-    name: str
-    skills: str
-    certifications: str
-    experience: float
-    ratingsreceived: float
-    phonenumber: str
-    email: str
-    address: str
-    location: str
+@app.post("/recommend/content-based/")
+def content_based_filtering(request: ContentRequest):
+    user_skill = request.user_skill
 
-def content_based_filtering(user_skill):
-    # Preprocess the user input skill
-    user_skill_tfidf = tfidf.transform([user_skill]).toarray()
-    
-    # Prepare the input data
-    X = np.hstack([
-        tfidf.transform(technicians_df['skills']).toarray(),
-        scaler_experience.transform(technicians_df[['experience']]),
-        scaler_ratings.transform(technicians_df[['ratingsreceived']]),
-        certifications_encoded
-    ])
-    
-    if user_skill_tfidf.shape[1] < X.shape[1]:
-        X_input = np.hstack([user_skill_tfidf, np.zeros((1, X.shape[1] - user_skill_tfidf.shape[1]))])
-    else:
-        X_input = user_skill_tfidf[:, :X.shape[1]]
+    try:
+        user_skill_tfidf = tfidf_vectorizer.transform([user_skill]).toarray()
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error processing user skill: {e}")
 
-    # Predict scores for the user input skill
-    predicted_score = content_based_model.predict(X_input).flatten()[0]
-    
-    # Combine with experience, certifications, and ratings
+    X_input = np.hstack([user_skill_tfidf, np.zeros((1, X.shape[1] - user_skill_tfidf.shape[1]))])
+
+    try:
+        predicted_score = content_based_model.predict(X_input).flatten()[0]
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error predicting score: {e}")
+
     best_match_score = -1
     best_technician_index = -1
-    
+
     for idx in range(X.shape[0]):
         technician = technicians_df.iloc[idx]
-        skill_match = user_skill.lower() in technician['skills'].lower()  # Ensure exact phrase matching
+        skill_match = user_skill.lower() in technician['skills'].lower()
         if skill_match:
-            combined_score = (predicted_score + 
-                              technician['experience'] + 
-                              technician['ratingsreceived'] + 
+            combined_score = (predicted_score + technician['experience'] +
+                              technician['ratingsreceived'] +
                               certifications_encoded_sparse[idx].sum())
             if combined_score > best_match_score:
                 best_match_score = combined_score
                 best_technician_index = idx
-    
-    if best_technician_index != -1:
-        return technicians_df.iloc[best_technician_index]
-    else:
-        return None
 
-def collaborative_filtering(user_id):
-    # Map the user ID to the corresponding index
+    if best_technician_index != -1:
+        best_technician = ori_technician.iloc[best_technician_index]
+        return {"message": best_technician}
+    else:
+        raise HTTPException(status_code=404, detail="No matching technician found.")
+
+@app.post("/recommend/collaborative/")
+def collaborative_filtering(request: CollaborativeRequest):
+    user_id = request.user_id
+
     if user_id not in user_id_map:
-        return None
+        raise HTTPException(status_code=404, detail="User ID not found.")
 
     user_idx = user_id_map[user_id]
-    num_technicians = len(technician_id_map)
-    
-    # Predict ratings for all technicians for the given user
-    user_input = np.array([user_idx] * num_technicians)
-    technician_input = np.arange(num_technicians)
-    predicted_ratings = collaborative_model.predict([user_input, technician_input])
-    
-    # Get the highest-rated technician
-    best_technician_idx = np.argmax(predicted_ratings)
-    best_technician_id = list(technician_id_map.keys())[best_technician_idx]
-    best_technician = technicians_df[technicians_df['technicianid'] == best_technician_id].iloc[0]
-    
-    return best_technician
 
-def hybrid_recommendation(user_id, user_skill):
-    # Get collaborative filtering recommendation
-    collab_recommendation = collaborative_filtering(user_id)
-    
-    # Get content-based filtering recommendation
-    content_recommendation = content_based_filtering(user_skill)
-    
-    if collab_recommendation is None and content_recommendation is None:
-        raise HTTPException(status_code=404, detail="No matching technician found")
+    try:
+        user_input = np.array([user_idx] * len(technician_id_map))
+        technician_input = np.arange(len(technician_id_map))
+        predicted_ratings = collaborative_model.predict([user_input, technician_input])
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error predicting ratings: {e}")
 
-    # Extract and compute scores
-    if collab_recommendation is not None:
-        collab_score = (collab_recommendation['ratingsreceived'] + 
-                        collab_recommendation['experience'] + 
-                        certifications_encoded_sparse[collab_recommendation.name].sum())
-    else:
-        collab_score = -1
-        
-    if content_recommendation is not None:
-        content_score = (content_recommendation['ratingsreceived'] + 
-                         content_recommendation['experience'] + 
-                         certifications_encoded_sparse[content_recommendation.name].sum())
-    else:
-        content_score = -1
-    
-    # Combine the scores (simple weighted average or other logic can be applied here)
-    if collab_score >= content_score:
-        return collab_recommendation
-    else:
-        return content_recommendation
+    predictions = [(tech_id, pred) for tech_id, pred in zip(technician_id_map.keys(), predicted_ratings.flatten())]
+    sorted_predictions = sorted(predictions, key=lambda x: x[1], reverse=True)
 
-@app.post("/content_based_recommend/", response_model=TechnicianResponse)
-def content_based_recommend(request: UserSkillRequest):
-    recommendation = content_based_filtering(request.user_skill)
-    
-    if recommendation is not None:
-        return TechnicianResponse(
-            technician_id=recommendation['technicianid'],
-            name=recommendation['name'],
-            skills=recommendation['skills'],
-            certifications=recommendation['certifications'],
-            experience=recommendation['experience'],
-            ratingsreceived=recommendation['ratingsreceived'],
-            phonenumber=recommendation['phonenumber'],
-            email=recommendation['email'],
-            address=recommendation['address'],
-            location=recommendation['location']
-        )
-    else:
-        raise HTTPException(status_code=404, detail="No matching technician found")
+    top_recommendation = sorted_predictions[0]
+    top_technician = ori_technician[technicians_df['technicianid'] == top_recommendation[0]].iloc[0]
 
-@app.post("/hybrid_recommend/", response_model=TechnicianResponse)
-def hybrid_recommend(request: HybridRecommendationRequest):
-    recommendation = hybrid_recommendation(request.user_id, request.user_skill)
-    
-    if recommendation is not None:
-        return TechnicianResponse(
-            technician_id=recommendation['technicianid'],
-            name=recommendation['name'],
-            skills=recommendation['skills'],
-            certifications=recommendation['certifications'],
-            experience=recommendation['experience'],
-            ratingsreceived=recommendation['ratingsreceived'],
-            phonenumber=recommendation['phonenumber'],
-            email=recommendation['email'],
-            address=recommendation['address'],
-            location=recommendation['location']
-        )
-    else:
-        raise HTTPException(status_code=404, detail="No matching technician found")
+    return {"message": top_technician}
+
+@app.post("/recommend/hybrid/")
+def hybrid_recommendation(request: HybridRequest):
+    user_id = request.user_id
+    user_skill = request.user_skill
+
+    # Content-based part
+    try:
+        user_skill_tfidf = tfidf_vectorizer.transform([user_skill]).toarray()
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error processing user skill: {e}")
+
+    X_content_input = np.hstack([user_skill_tfidf, np.zeros((1, X.shape[1] - user_skill_tfidf.shape[1]))])
+
+    try:
+        predicted_content_score = content_based_model.predict(X_content_input).flatten()[0]
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error predicting content-based score: {e}")
+
+    # Collaborative part
+    if user_id not in user_id_map:
+        raise HTTPException(status_code=404, detail="User ID not found.")
+
+    user_idx = user_id_map[user_id]
+
+    try:
+        user_input = np.array([user_idx] * len(technician_id_map))
+        technician_input = np.arange(len(technician_id_map))
+        predicted_ratings = collaborative_model.predict([user_input, technician_input])
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error predicting collaborative ratings: {e}")
+
+    # Hybrid recommendation
+    predictions = [(tech_id, (pred + predicted_content_score) / 2) for tech_id, pred in zip(technician_id_map.keys(), predicted_ratings.flatten())]
+    sorted_predictions = sorted(predictions, key=lambda x: x[1], reverse=True)
+
+    top_recommendation = sorted_predictions[0]
+    top_technician = ori_technician[technicians_df['technicianid'] == top_recommendation[0]].iloc[0]
+
+    return {"message": top_technician}
